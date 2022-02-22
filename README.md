@@ -11,7 +11,7 @@ Truly Organic Skincare Line Powered By Goodness Of Mother Nature. No Synthetic A
 
 ## Authors
 - [@shubham mishra]
--[@Pawan Lode]
+- [@Pawan Lode]
 - [@Dharavath Michitha]
 - [@Sharique Anwer]
 
